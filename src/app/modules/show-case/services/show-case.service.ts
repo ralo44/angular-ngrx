@@ -18,6 +18,8 @@ export class ShowCaseService {
         price: 0.2,
         image: "https://api.pudgypenguins.io/penguin/image/1"
       },
+      
+
       {
         name: "Pudgy Penguin #2",
         price: 0.1,
